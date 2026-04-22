@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "875046865484",
+    "project_id": "doctor-app-majd-2026",
+    "storage_bucket": "doctor-app-majd-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875046865484:android:fdca1ab60fee42c4d282e9",
+        "android_client_info": {
+          "package_name": "com.majd.dashboard.doctor_dashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875046865484-vldgpi0hk9kebqs63tmj657786tikmom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWTTCyajxuUQ5DKnnY84JIhj6UHzMwF-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875046865484-vldgpi0hk9kebqs63tmj657786tikmom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875046865484:android:3a51e1bf4d4732f8d282e9",
+        "android_client_info": {
+          "package_name": "com.majd.doctorapp.doctor_appointment_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875046865484-qdju6h193midc71fjc6igrfmtet24vd9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.majd.doctorapp.doctor_appointment_app",
+            "certificate_hash": "b191ff6265ed15761d964b154f98514bdebd2329"
+          }
+        },
+        {
+          "client_id": "875046865484-vldgpi0hk9kebqs63tmj657786tikmom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWTTCyajxuUQ5DKnnY84JIhj6UHzMwF-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875046865484-vldgpi0hk9kebqs63tmj657786tikmom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
