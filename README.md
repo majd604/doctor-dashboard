@@ -60,16 +60,16 @@ Built with Flutter and Firebase, the dashboard ensures scalability, performance,
 ---
 
 ## Project Structure
-
+```bash
 lib/
 ├── core/
 ├── features/
 │   ├── auth/
 │   ├── dashboard/
-│   ├── categories/
+│   ├── category/
 │   ├── doctors/
-│   ├── appointments/
-│   ├── message/
+│   ├── appointment/
+│   └── message/
 ├── firebase_options.dart
 └── main.dart
 
