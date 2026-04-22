@@ -101,6 +101,8 @@ lib/
 
 
 ⚡ Real-Time Features
+
+
 . Live appointment updates
 . Real-time chat system
 . Firestore synchronization
