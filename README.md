@@ -79,25 +79,25 @@ lib/
 
 
 🔐 Login Admin
-<p align="center"> <img src="images/screenshoot/login_admin.png" width="250"/> </p>
+<p align="center"> <img src="images/screenshoot/login_admin.png" width="350"/> </p>
 🏠 Dashboard Home
-<p align="center"> <img src="images/screenshoot/home_dashboard.png" width="250"/> </p>
+<p align="center"> <img src="images/screenshoot/home_dashboard.png" width="350"/> </p>
 🗂️ Categories
-<p align="center"> <img src="images/screenshoot/categories.png" width="250"/> </p>
+<p align="center"> <img src="images/screenshoot/categories.png" width="350"/> </p>
 ➕ Add Category
-<p align="center"> <img src="images/screenshoot/add_category.png" width="250"/> </p>
+<p align="center"> <img src="images/screenshoot/add_category.png" width="350"/> </p>
 👨‍⚕️ Doctors Dashboard
-<p align="center"> <img src="images/screenshoot/doctors_dashboard.png" width="250"/> </p>
+<p align="center"> <img src="images/screenshoot/doctors_dashboard.png" width="350"/> </p>
 ➕ Add Doctor
-<p align="center"> <img src="images/screenshoot/add_doctors.png" width="250"/> </p>
+<p align="center"> <img src="images/screenshoot/add_doctors.png" width="350"/> </p>
 ✏️ Edit Doctor
-<p align="center"> <img src="images/screenshoot/edit_doctors.png" width="250"/> </p>
+<p align="center"> <img src="images/screenshoot/edit_doctors.png" width="350"/> </p>
 📅 Appointments Dashboard
-<p align="center"> <img src="images/screenshoot/appointments_dashboard.png" width="250"/> </p>
+<p align="center"> <img src="images/screenshoot/appointments_dashboard.png" width="350"/> </p>
 💬 Messages
-<p align="center"> <img src="images/screenshoot/messages.png" width="250"/> </p>
+<p align="center"> <img src="images/screenshoot/messages.png" width="350"/> </p>
 🗨️ Chat with User
-<p align="center"> <img src="images/screenshoot/chat_with_doctor.png" width="250"/> </p>
+<p align="center"> <img src="images/screenshoot/chat_with_doctor.png" width="350"/> </p>
 
 
 ⚡ Real-Time Features
