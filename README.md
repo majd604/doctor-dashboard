@@ -61,7 +61,6 @@ Built with Flutter and Firebase, the dashboard ensures scalability, performance,
 
 ## Project Structure
 
-```bash
 lib/
 ├── core/
 ├── features/
